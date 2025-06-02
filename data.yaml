@@ -1,0 +1,24 @@
+path: /content/drive/MyDrive/FYP/yolo_dataset
+train: images/train
+val: images/train  # Use a separate validation set if available
+nc: 19  # Number of classes (landmarks)
+names:
+  - landmark_1
+  - landmark_2
+  - landmark_3
+  - landmark_4
+  - landmark_5
+  - landmark_6
+  - landmark_7
+  - landmark_8
+  - landmark_9
+  - landmark_10
+  - landmark_11
+  - landmark_12
+  - landmark_13
+  - landmark_14
+  - landmark_15
+  - landmark_16
+  - landmark_17
+  - landmark_18
+  - landmark_19
