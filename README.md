@@ -17,11 +17,11 @@ Focused on building a solution that delivers high accuracy and consistent perfor
 Trained and evaluated models on a dataset of cephalometric X-ray images.
 
 ## Technologies Used
-Programming Language: Python
-Deep Learning Frameworks: PyTorch (for YOLOv8), TensorFlow/Keras (for ResNet-50, Inception-v3)
-Image Processing: OpenCV (cv2)
-Data Handling: Pandas, NumPy
-Model Evaluation: Mean Radial Error (MRE)
+#### Programming Language: Python
+#### Deep Learning Frameworks: PyTorch (for YOLOv8), TensorFlow/Keras (for ResNet-50, Inception-v3)
+#### Image Processing: OpenCV (cv2)
+#### Data Handling: Pandas, NumPy
+#### Model Evaluation: Mean Radial Error (MRE)
 
 ## Performance Evaluation
 The model's performance is rigorously evaluated using:
